@@ -90,11 +90,4 @@ Building academic and utility-focused mobile applications.
 
 ---
 
-## 📫 Connect
-
-- Portfolio: https://earendel-solutions.vercel.app/
-- GitHub: https://github.com/YOUR_USERNAME
-
----
-
 "Always learning, always building."
