@@ -1,16 +1,100 @@
-## Hi there 👋
+# Hi, I'm Farhan Mir 👋
 
-<!--
-**Farhan-Mir/Farhan-Mir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### MCA Student | Developer | Machine Learning Learner
 
-Here are some ideas to get you started:
+I am currently pursuing a Master of Computer Applications (MCA) and enjoy building web applications, Android applications, and exploring machine learning concepts through projects and practical implementations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education
+
+- Master of Computer Applications (MCA)
+
+---
+
+## 💻 Technologies I Work With
+
+### Programming Languages
+- JavaScript
+- Python
+- Java
+- C++
+
+### Web Development
+- React
+- Tailwind CSS
+- HTML
+- CSS
+
+### Mobile Development
+- Android Studio
+- Java
+- XML
+
+### Machine Learning & Data Science
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Google Colab
+
+---
+
+## 🚀 Interests
+
+- Web Development
+- Android Development
+- Machine Learning
+- Data Analysis
+- Artificial Intelligence
+
+---
+
+## 📚 Currently Learning
+
+- Advanced React Development
+- Machine Learning Algorithms
+- Mobile Application Development
+- Software Development Best Practices
+
+---
+
+## 📌 Projects
+
+### Earendel Solutions
+A web development initiative focused on building modern websites and digital solutions.
+
+### Machine Learning Projects
+Working on practical implementations involving:
+- Classification algorithms
+- Data preprocessing
+- Feature engineering
+- Reinforcement learning experiments
+
+### Android Applications
+Building academic and utility-focused mobile applications.
+
+---
+
+## 📈 Goals
+
+- Improve full-stack development skills
+- Build production-ready applications
+- Strengthen machine learning fundamentals
+- Contribute to open-source projects
+
+---
+
+## 📫 Connect
+
+- Portfolio: https://earendel-solutions.vercel.app/
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+"Always learning, always building."
